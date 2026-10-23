@@ -1,0 +1,10 @@
+This adapter is licensed under the Apache License 2.0.
+
+Base model: MiniCPM5-2B-Base by OpenBMB, Apache License 2.0.
+
+Training data attributions:
+- SecLists (MIT), PayloadsAllTheThings (MIT), nuclei-templates (MIT): attack payloads.
+- OWASP Core Rule Set regression tests (Apache License 2.0): attack payloads.
+- G. Lucz, B. Forstner, "A Thirty-Day Dataset of Malicious HTTP Requests Blocked by OWASP ModSecurity on a
+  Production Web Server", Data 10(11):186, 2025; dataset https://doi.org/10.5281/zenodo.17178461,
+  Creative Commons Attribution 4.0 International: 67 requests, relabeled.
